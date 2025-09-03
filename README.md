@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=x7lex.x7lex&left_color=black&right_color=black&left_text=Views"  />
+</div>
 
-<!--
-**x7lex/x7lex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h1 align="left">👋 Welcome! From Canada 🍁</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">I'm Hadi and I am:<br>• Hobbyist Malware Analyst <br>• Intermediate Python Developer <br>• Linux & Macos User.</p>
+
+###
+
+<h1 align="left"></h1>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+</div>
+
+###
