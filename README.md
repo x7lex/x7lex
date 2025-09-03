@@ -10,11 +10,16 @@
 
 <p align="left">I'm Hadi and I am:<br>• Hobbyist Malware Analyst <br>• Intermediate Python Developer <br>• Linux & Macos User.</p>
 
+###
+
+<h2 align="left">Skills</h2>
+
+###
+
 <h1 align="left"></h1>
 
-<h1 align="left">Skills
-  
 ###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
