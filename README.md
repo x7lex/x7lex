@@ -10,8 +10,6 @@
 
 <p align="left">I'm Hadi and I am:<br>• Hobbyist Malware Analyst <br>• Intermediate Python Developer <br>• Linux & Macos User.</p>
 
-###
-
 <h1 align="left"></h1>
 
 <h1 align="left">Skills
