@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Hadi and I am:<br>• Hobbyist Malware Analyst & Repair Guy <br>• Intermediate Python Developer <br>• Linux & Macos User.</p>
+<p align="left">I'm Hadi and I am:<br>• Hobbyist Malware Analyst & Repair Guy <br>• Intermediate Python & C++ Developer <br>• Linux & Macos User.</p>
 
 ###
 
@@ -22,6 +22,8 @@
   <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
