@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Hadi and I am:<br>• Hobbyist Malware Analyst & Repair Guy <br>• Intermediate Python & C++ Developer <br>• Linux & Macos User.</p>
+<p align="left">I'm Hadi and I am:<br>• Hobbyist Malware Analyst & Repair Guy <br>• Intermediate Python & C++ Developer <br>• Linux & Macos User. <br>• Check out my Portfolio! https://x7lex.github.io/</p>
 
 ###
 
