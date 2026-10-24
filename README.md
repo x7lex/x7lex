@@ -2,31 +2,23 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=x7lex.x7lex&left_color=black&right_color=black&left_text=Views"  />
 </div>
 
-###
+<img
+  align="left"
+  alt="Avatar"
+  width="200"
+  src="https://avatars.githubusercontent.com/u/71578081?v=4"
+/>
 
-<h1 align="left">👋 Welcome! From Canada 🍁</h1>
+### 👋 I'm Hadi, a tech enthusiast from Canada 🇨🇦
+---
+I'm a first-year student at Carleton University who mainly codes in Rust and Python. My interests range from Software Engineering to Cybersecurity, if it's not meant to be broken I will break it. 
 
-###
 
-<p align="left">I'm Hadi and I am:<br>• Hobbyist Malware Analyst <br>• Intermediate Python Developer <br>• Linux & Macos User. <br>• Check out my Portfolio! https://hadi.rocks/</p>
-
-###
-
-<h2 align="left">Skills</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-</div>
-
-###
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
