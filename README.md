@@ -1,5 +1,6 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=x7lex.x7lex&left_color=black&right_color=black&left_text=Views"  />
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/x7lex?style=flat-square&logo=github&logoColor=white&labelColor=black&color=black">
 </div>
 
 <img
