@@ -24,5 +24,3 @@ I'm a first-year student at Carleton University who mainly codes in Rust and Pyt
 ![Codium](https://img.shields.io/badge/Codium-007ACC?style=flat-square&logo=vscodium&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-![Caddy](https://img.shields.io/badge/Caddy-FF69B4?style=flat-square&logo=caddy&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-f48120?style=flat-square&logo=cloudflare&logoColor=white)
