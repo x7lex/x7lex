@@ -10,7 +10,7 @@
   src="https://avatars.githubusercontent.com/u/71578081?v=4"
 />
 
-### 👋 I'm Hadi, a tech enthusiast from Canada 🇨🇦
+### 👋 I'm Hadi
 ---
 I'm a first-year student at Carleton University who mainly codes in Rust and Python. My interests range from Software Engineering to Cybersecurity, if it's not meant to be broken I will break it. 
 
